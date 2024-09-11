@@ -10,17 +10,17 @@ Simply download all the file on desktop and run index.html should make the progr
 
 Regular minesweeper rules, number represents the numbers of bumbs around in the 3*3 grid.
 <p align="center">
-  <img src="lose_image.png" width="500" alt="lose Image" style="border: 2px solid #000;">
+  <img src="lose_image2.png" width="500" alt="lose Image2" style="border: 2px solid #000;">
 </p>
 <p align="center">
-  <img src="lose_image2.png" width="500" alt="lose Image2" style="border: 2px solid #000;">
+  <img src="lose_image.png" width="500" alt="lose Image" style="border: 2px solid #000;">
 </p>
 <p align="center">
   <img src="victory_image.png" width="500" alt="victory_image" style="border: 2px solid #000;">
 </p>
 To accomodate with the mobile end(since I have never tried to develop for mobile), I made a toggle buttom for switching mode between open a grid and flag a grid(simulate the functions as left and right click  on PC)
 <p align="center">
-  <img src="mobile_end.png" width="500" alt="mobile_end Image" style="border: 2px solid #000;">
+  <img src="mobile_end.jpeg" width="500" alt="mobile_end Image" style="border: 2px solid #000;">
 </p>
 
 ## Notice
