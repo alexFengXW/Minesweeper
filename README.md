@@ -20,7 +20,7 @@ Regular minesweeper rules, number represents the numbers of bumbs around in the 
 </p>
 To accomodate with the mobile end(since I have never tried to develop for mobile), I made a toggle buttom for switching mode between open a grid and flag a grid(simulate the functions as left and right click  on PC)
 <p align="center">
-  <img src="mobile_end.jpeg" width="500" alt="mobile_end Image" style="border: 2px solid #000;">
+  <img src="mobile_end.JPEG" width="500" alt="mobile_end Image" style="border: 2px solid #000;">
 </p>
 
 ## Notice
