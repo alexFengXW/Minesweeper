@@ -8,7 +8,7 @@ Simply download all the file on desktop and run index.html should make the progr
 
 ## Mechanism
 
-Regular minesweeper rules, number represents the numbers of bumbs around in the 3*3 grid.
+Regular minesweeper rules, number represents the numbers of bombs around in the 3*3 grid.
 To accomodate with the mobile end(since I have never tried to develop for mobile), I made a toggle buttom for switching mode between open grid and flag grid(simulate the functions as left and right click  on PC)
 
 ## Notice
